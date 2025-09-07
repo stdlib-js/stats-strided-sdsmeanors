@@ -320,7 +320,7 @@ int main( void ) {
 ## See Also
 
 -   <span class="package-name">[`@stdlib/stats-strided/sdsmean`][@stdlib/stats/strided/sdsmean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array using extended accumulation.</span>
--   <span class="package-name">[`@stdlib/stats-base/sdsnanmeanors`][@stdlib/stats/base/sdsnanmeanors]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values and using ordinary recursive summation with extended accumulation.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/sdsnanmeanors`][@stdlib/stats/strided/sdsnanmeanors]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values and using ordinary recursive summation with extended accumulation.</span>
 
 </section>
 
@@ -408,7 +408,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/sdsmean]: https://github.com/stdlib-js/stats-strided-sdsmean
 
-[@stdlib/stats/base/sdsnanmeanors]: https://github.com/stdlib-js/stats-base-sdsnanmeanors
+[@stdlib/stats/strided/sdsnanmeanors]: https://github.com/stdlib-js/stats-strided-sdsnanmeanors
 
 <!-- </related-links> -->
 
